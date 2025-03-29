@@ -1,0 +1,22 @@
+[
+  {
+    "id": -794054518,
+    "idfLocation": "C:\\Espressif\\frameworks\\esp-idf-v5.4",
+    "idfVersion": "5.4",
+    "active": true,
+    "systemGitExecutablePath": "C:\\Program Files\\Git\\cmd\\git.EXE",
+    "systemPythonExecutablePath": "C:\\Python312\\python.EXE",
+    "envVars": {
+      "PATH": "C:\\Users\\Owner\\.espressif\\tools\\xtensa-esp-elf-gdb\\14.2_20240403\\xtensa-esp-elf-gdb\\bin;C:\\Users\\Owner\\.espressif\\tools\\riscv32-esp-elf-gdb\\14.2_20240403\\riscv32-esp-elf-gdb\\bin;C:\\Users\\Owner\\.espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin;C:\\Users\\Owner\\.espressif\\tools\\esp-clang\\esp-18.1.2_20240912\\esp-clang\\bin;C:\\Users\\Owner\\.espressif\\tools\\riscv32-esp-elf\\esp-14.2.0_20241119\\riscv32-esp-elf\\bin;C:\\Users\\Owner\\.espressif\\tools\\esp32ulp-elf\\2.38_20240113\\esp32ulp-elf\\bin;C:\\Users\\Owner\\.espressif\\tools\\cmake\\3.30.2\\bin;C:\\Users\\Owner\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20241016\\openocd-esp32\\bin;C:\\Users\\Owner\\.espressif\\tools\\ninja\\1.12.1\\;C:\\Users\\Owner\\.espressif\\tools\\idf-exe\\1.0.3\\;C:\\Users\\Owner\\.espressif\\tools\\ccache\\4.10.2\\ccache-4.10.2-windows-x86_64;C:\\Users\\Owner\\.espressif\\tools\\dfu-util\\0.11\\dfu-util-0.11-win64;C:\\Users\\Owner\\.espressif\\tools\\qemu-xtensa\\esp_develop_9.0.0_20240606\\qemu\\bin;C:\\Users\\Owner\\.espressif\\tools\\qemu-riscv32\\esp_develop_9.0.0_20240606\\qemu\\bin;C:\\Users\\Owner\\.espressif\\python_env\\idf5.4_py3.12_env\\Scripts;C:\\Espressif\\frameworks\\esp-idf-v5.4\\tools;%PATH%",
+      "IDF_COMPONENT_MANAGER": "1",
+      "OPENOCD_SCRIPTS": "C:\\Users\\Owner\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20241016\\openocd-esp32\\share\\openocd\\scripts",
+      "IDF_DEACTIVATE_FILE_PATH": "C:\\Users\\Owner\\AppData\\Local\\Temp\\tmp6dxe4eieidf_18300",
+      "IDF_MAINTAINER": "1",
+      "IDF_CCACHE_ENABLE": "1",
+      "IDF_PATH": "C:\\Espressif\\frameworks\\esp-idf-v5.4",
+      "IDF_PYTHON_ENV_PATH": "C:\\Users\\Owner\\.espressif\\python_env\\idf5.4_py3.12_env",
+      "ESP_IDF_VERSION": "5.4",
+      "ESP_ROM_ELF_DIR": "C:\\Users\\Owner\\.espressif\\tools\\esp-rom-elfs\\20241011\\"
+    }
+  }
+]
