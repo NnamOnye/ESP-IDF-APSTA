@@ -2,7 +2,7 @@
 | ----------------- | ----- | -------- | -------- | -------- | -------- | --------- | -------- | -------- |
 
 # ESP-IDF Wi-Fi SoftAP & Station Example
-# Using esp-idf v5.4
+# Using esp-idf v5.4 in Eclipse IDE
 # Modified by M.O
 # This project should help anyone using esp-idf with eclispe,Visual Studio,etc.. to create an ap+sta router that will give internet access
 # You can modify this code to suit your specific needs you can even embedd a vpn server into this project directly in the main file.
